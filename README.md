@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubh-dwivedi
 - 👀 I’m interested in Science and Technology
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
